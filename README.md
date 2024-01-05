@@ -42,7 +42,7 @@ Before starting, ensure that you have logged into WhatsApp Web in your default w
    - Click on the "Send" button to start the automation process.
 
 8. **Error Handling:**
-   - If you encounter any errors, feel free to contact the developer via their website: [https://kaushalrijal.com.np](https://kaushalrijal.com.np).
+   - If you encounter any errors, feel free to contact me via my website: [https://kaushalrijal.com.np](https://kaushalrijal.com.np).
 
 ## Note
 This application is developed for educational and personal use. Ensure that you comply with WhatsApp's terms of service while using automation tools. The developer is not responsible for any misuse of this application.
